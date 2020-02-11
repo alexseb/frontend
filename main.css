@@ -1,7 +1,8 @@
 section {
- background: red
+ background: red;
 }
 
 h1 {
-    color : blue
+    color : blue;
+    font-family : san-serif;
 }
